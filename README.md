@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cypherpunk-coder
 - 👀 I’m interested in ... Bitcoin
-- 🌱 I’m currently learning ... about Bitcoin
+- 🌱 I’m currently learning ... about Bitcoin and ... more
 - 💞️ I’m looking to collaborate on ... Bitcoin based projects
 
 <!---
